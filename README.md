@@ -1,5 +1,5 @@
 # MaxHeap-and-BST-Tree
-This is my university project In this program, I wrote the Max Heap tree code and the binary tree, which has several functions
+This is my university project In this program, I wrote the Max Heap tree and the BST tree code , which has several functions
  1:Insert Heap                       2:Is Heap 
  3:Find & Delete from Heap           4:Print Sorted Heap 
  5:Merge Heaps                       6:Print kth Biggest Num In Heap 
